@@ -14,3 +14,4 @@ $ streamlit run streamlit_app.py
   * pip install mlxtend --upgrade (linux)
   * advanced setting -> python 3.8"# new_streamlit" 
 "# new_streamlit" 
+"# test_streamlit" 
